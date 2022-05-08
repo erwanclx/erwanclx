@@ -1,6 +1,6 @@
 <img align="right" src="https://media.giphy.com/media/84SFZf1BKgzeny1WxQ/giphy.gif" width="300px" style="border-radius:50%">
 
-## Hi, welcome on my profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi, welcome on my profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  ![Views](https://komarev.com/ghpvc/?username=erwanclx&style=for-the-badge)
 
 #### <img src="https://i.pinimg.com/originals/20/c6/09/20c609f194dde4421224b94e9d3d5c6c.gif" width="25px"> Who am I ?
 
