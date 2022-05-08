@@ -4,9 +4,16 @@
 
 #### <img src="https://i.pinimg.com/originals/20/c6/09/20c609f194dde4421224b94e9d3d5c6c.gif" width="25px"> Who am I ?
 
-I'm a french student in system security and network. I am passionate about development, especially web. You can see my portfolio : https://erwancloux.fr ⚠️🚧**IN BUILDING**🚧⚠️
+I'm a french student in system security and network. I am passionate about development, especially web. You can see my portfolio here : https://erwancloux.fr ⚠️🚧**IN BUILDING**🚧⚠️
 
 <p><em>IT Technician at <a href="https://miap.fr">MIAP Informatique <img src="https://lh3.googleusercontent.com/-dziqP6nan8I/AAAAAAAAAAI/AAAAAAAAAAA/qqEez4QwPlA/s44-p-k-no-ns-nd/photo.jpg" width="30px"/></a> | In formation at <a href="https://www.esiee-it.fr/fr"><img src="https://www.esiee-it.fr/themes/custom/generic/medias/logo-esiee-it.png" alt="ESIEE-IT" width="50px"/></a></em></p>
+
+
+You can meet me on :
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erwanclx/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/erwanclx)
+![Discord](https://img.shields.io/badge/Erwan&#9839;1111-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 #### <img src="https://pic.vsixhub.com/f4/e5/8607133c-9ced-49bd-b817-28004ca94c7c-logo.png" width="25px"> My skills ?
 
@@ -22,7 +29,3 @@ Few stats :
 
 ![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erwanclx&theme=buefy&exclude_repo=glpi-glassmorphismtheme)
 <br>
-
-You can meet me on :
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erwanclx/)
