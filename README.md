@@ -25,8 +25,8 @@ I work with :
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)    ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
-
 Few stats :
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erwanclx&theme=buefy&exclude_repo=glpi-glassmorphismtheme" align="right"/>
 
-![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erwanclx&theme=buefy&exclude_repo=glpi-glassmorphismtheme)
-<br>
+<img src="https://github-readme-stats.vercel.app/api?username=erwanclx&show_icons=true&theme=buefy"/>
+
