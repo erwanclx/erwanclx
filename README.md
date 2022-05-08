@@ -1,16 +1,28 @@
-### Hi there 👋
+<img align="right" src="https://media.giphy.com/media/84SFZf1BKgzeny1WxQ/giphy.gif" width="300px" style="border-radius:50%">
 
-<!--
-**erwanclx/erwanclx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, welcome on my profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Here are some ideas to get you started:
+#### <img src="https://i.pinimg.com/originals/20/c6/09/20c609f194dde4421224b94e9d3d5c6c.gif" width="25px"> Who am I ?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a french student in system security and network. I am passionate about development, especially web. You can see my portfolio : https://erwancloux.fr ⚠️🚧**IN BUILDING**🚧⚠️
+
+<p><em>IT Technician at <a href="https://miap.fr">MIAP Informatique <img src="https://lh3.googleusercontent.com/-dziqP6nan8I/AAAAAAAAAAI/AAAAAAAAAAA/qqEez4QwPlA/s44-p-k-no-ns-nd/photo.jpg" width="30px"/></a> | In formation at <a href="https://www.esiee-it.fr/fr"><img src="https://www.esiee-it.fr/themes/custom/generic/medias/logo-esiee-it.png" alt="ESIEE-IT" width="50px"/></a></em></p>
+
+#### <img src="https://pic.vsixhub.com/f4/e5/8607133c-9ced-49bd-b817-28004ca94c7c-logo.png" width="25px"> My skills ?
+
+I work with : 
+
+ ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)    ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)    ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+
+
+Few stats :
+
+![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erwanclx&theme=buefy&exclude_repo=glpi-glassmorphismtheme)
+<br>
+
+You can meet me on :
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erwanclx/)
