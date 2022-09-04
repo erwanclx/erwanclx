@@ -28,4 +28,5 @@ I work with :
 Few stats :
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erwanclx&theme=buefy&exclude_repo=glpi-glassmorphismtheme" align="right"/>
 
+<img src="https://github-readme-stats.vercel.app/api?username=erwanclx&show_icons=true&theme=buefy"/>
 
