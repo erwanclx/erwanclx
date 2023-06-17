@@ -14,9 +14,9 @@ You can meet me on :
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erwanclx/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/erwanclx)
-![Discord](https://img.shields.io/badge/Erwan&#9839;1111-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Discord](https://img.shields.io/badge/erwanclx-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
-#### <img src="https://pic.vsixhub.com/f4/e5/8607133c-9ced-49bd-b817-28004ca94c7c-logo.png" width="25px"> My skills ?
+#### <img src="https://aaronyoung.gallerycdn.vsassets.io/extensions/aaronyoung/dark-synthwave-vscode/1.0.3/1672084075488/Microsoft.VisualStudio.Services.Icons.Default" width="25px"> My skills ?
 
 I work with : 
 
