@@ -4,7 +4,7 @@
 
 #### <img src="https://i.pinimg.com/originals/20/c6/09/20c609f194dde4421224b94e9d3d5c6c.gif" width="25px"> Who am I ?
 
-I'm a french student in system, network and devops. I am passionate about development, especially web. <br> <br> [![Twitter](https://img.shields.io/badge/-PORTFOLIO-blueviolet?style=for-the-badge&logo=HTML5&logoColor=white)](https://erwancloux.fr)
+I'm a french student in system, network and devops. I am passionate about development, especially web. <br> <br> [![Twitter](https://img.shields.io/badge/-PORTFOLIO-blueviolet?style=for-the-badge&logo=HTML5&logoColor=white)](https://portfolio.erwancloux.fr)
  ⚠️🚧**IN BUILDING**🚧⚠️
 
 <p><em>IT Technician at <a href="https://www.flowlinetechnologies.com/">Flow Lines Technologies <img src="https://media.licdn.com/dms/image/C4D0BAQE_DTRfXHxLvw/company-logo_200_200/0/1634636197160/flow_line_technologies_logo?e=2147483647&v=beta&t=HkKVl32Sx01u_1IHYKhqYKIQYvox2DTnN7r7447sg7w" width="30px"/></a> | In formation at <a href="https://www.esiee-it.fr/fr"><img src="https://www.esiee-it.fr/themes/custom/generic/medias/logo-esiee-it.png" alt="ESIEE-IT" width="50px"/></a></em></p>
